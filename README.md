@@ -82,12 +82,6 @@ A `Makefile` orchestrates the above.
 - Figure 2A plots 2,898 basins after filtering Tedesco *et al.*'s 3,119-basin
   archive to those with outlet coordinates available.
 
-## Scope
-
-This repository is limited to the figure reproduction pipeline. Submission-side
-tooling (markdown → DOCX conversion, reviewer-response helpers) lives elsewhere
-and is not part of the reproducible science.
-
 ## Contact
 
 See the corresponding Perspective for contact details.

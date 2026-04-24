@@ -1,0 +1,13 @@
+# Python dependencies for the Figure 2 reproducibility pipeline.
+# Tested on Windows ARM64 / Python 3.12.10 (Apr 2026).
+#
+# Install with:  pip install -r requirements.txt
+#
+# The pipeline deliberately avoids geopandas/cartopy/fiona because those
+# require native GDAL binaries that do not have stable pre-built wheels on
+# Windows ARM64 as of 2026-04. The figure uses matplotlib scatter over
+# lat/lon with basin centroids; a final submission-quality choropleth can be
+# re-rendered in R (sf + ggplot2) or via conda-forge geopandas on an x64 host.
+
+pandas>=2.2,<3
+matplotlib>=3.8,<4

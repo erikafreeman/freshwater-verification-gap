@@ -1,0 +1,35 @@
+site_code,site_name,site_type_neon,subtype,domain_code,domain_name,state_code,state_name,latitude,longitude,n_aquatic_products,network
+BARC,Lake Barco NEON,CORE,LAKE,D03,Southeast,FL,Florida,29.675982,-82.008414,41,NEON
+CRAM,Crampton Lake NEON,CORE,LAKE,D05,Great Lakes,WI,Wisconsin,46.209675,-89.473688,43,NEON
+LIRO,Little Rock Lake NEON,GRADIENT,LAKE,D05,Great Lakes,WI,Wisconsin,45.998269,-89.704767,43,NEON
+PRLA,Prairie Lake NEON,GRADIENT,LAKE,D09,Northern Plains,ND,North Dakota,47.15909,-99.11388,43,NEON
+PRPO,Prairie Pothole NEON,CORE,LAKE,D09,Northern Plains,ND,North Dakota,47.129839,-99.253147,43,NEON
+SUGG,Lake Suggs NEON,CORE,LAKE,D03,Southeast,FL,Florida,29.68778,-82.017745,41,NEON
+TOOK,Toolik Lake NEON,GRADIENT,LAKE,D18,Tundra,AK,Alaska,68.630692,-149.610636,44,NEON
+BLWA,Black Warrior River NEON,GRADIENT,RIVER,D08,Ozarks Complex,AL,Alabama,32.541529,-87.798151,39,NEON
+FLNT,Flint River NEON,GRADIENT,RIVER,D03,Southeast,GA,Georgia,31.185424,-84.437403,38,NEON
+TOMB,Lower Tombigbee River NEON,GRADIENT,RIVER,D08,Ozarks Complex,AL,Alabama,31.853431,-88.158872,39,NEON
+ARIK,Arikaree River NEON,CORE,STREAM,D10,Central Plains,CO,Colorado,39.758206,-102.447148,42,NEON
+BIGC,Upper Big Creek NEON,GRADIENT,STREAM,D17,Pacific Southwest,CA,California,37.059719,-119.257549,42,NEON
+BLDE,Blacktail Deer Creek NEON,CORE,STREAM,D12,Northern Rockies,WY,Wyoming,44.95011,-110.58715,41,NEON
+BLUE,Blue River NEON,GRADIENT,STREAM,D11,Southern Plains,OK,Oklahoma,34.444218,-96.624201,42,NEON
+CARI,Caribou Creek NEON,CORE,STREAM,D19,Taiga,AK,Alaska,65.153224,-147.503973,43,NEON
+COMO,Como Creek NEON,CORE,STREAM,D13,Southern Rockies and Colorado Plateau,CO,Colorado,40.034962,-105.544164,40,NEON
+CUPE,Río Cupeyes NEON,CORE,STREAM,D04,Atlantic Neotropical,PR,Puerto Rico,18.11352,-66.98676,36,NEON
+GUIL,Río Yahuecas NEON,GRADIENT,STREAM,D04,Atlantic Neotropical,PR,Puerto Rico,18.17406,-66.79868,42,NEON
+HOPB,Lower Hop Brook NEON,CORE,STREAM,D01,Northeast,MA,Massachusetts,42.471941,-72.329526,42,NEON
+KING,Kings Creek NEON,CORE,STREAM,D06,Prairie Peninsula,KS,Kansas,39.105061,-96.603829,42,NEON
+LECO,LeConte Creek NEON,GRADIENT,STREAM,D07,Appalachians and Cumberland Plateau,TN,Tennessee,35.690428,-83.50379,36,NEON
+LEWI,Lewis Run NEON,GRADIENT,STREAM,D02,Mid-Atlantic,VA,Virginia,39.095637,-77.983216,41,NEON
+MART,Martha Creek NEON,CORE,STREAM,D16,Pacific Northwest,WA,Washington,45.790835,-121.933788,42,NEON
+MAYF,Mayfield Creek NEON,CORE,STREAM,D08,Ozarks Complex,AL,Alabama,32.960365,-87.407688,41,NEON
+MCDI,McDiffett Creek NEON,GRADIENT,STREAM,D06,Prairie Peninsula,KS,Kansas,38.945861,-96.443022,42,NEON
+MCRA,McRae Creek NEON,GRADIENT,STREAM,D16,Pacific Northwest,OR,Oregon,44.259598,-122.165554,37,NEON
+OKSR,Oksrukuyik Creek NEON,CORE,STREAM,D18,Tundra,AK,Alaska,68.669753,-149.143018,43,NEON
+POSE,Posey Creek NEON,CORE,STREAM,D02,Mid-Atlantic,VA,Virginia,38.89431,-78.147258,41,NEON
+PRIN,Pringle Creek NEON,CORE,STREAM,D11,Southern Plains,TX,Texas,33.378517,-97.782312,42,NEON
+REDB,Red Butte Creek NEON,CORE,STREAM,D15,Great Basin,UT,Utah,40.783934,-111.797887,42,NEON
+SYCA,Sycamore Creek NEON,CORE,STREAM,D14,Desert Southwest,AZ,Arizona,33.750993,-111.508091,42,NEON
+TECR,Teakettle Creek - Watershed 2 NEON,CORE,STREAM,D17,Pacific Southwest,CA,California,36.955931,-119.027363,35,NEON
+WALK,Walker Branch NEON,CORE,STREAM,D07,Appalachians and Cumberland Plateau,TN,Tennessee,35.957378,-84.279251,42,NEON
+WLOU,West St. Louis Creek NEON,GRADIENT,STREAM,D13,Southern Rockies and Colorado Plateau,CO,Colorado,39.891366,-105.915395,42,NEON

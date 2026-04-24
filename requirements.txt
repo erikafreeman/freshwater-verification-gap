@@ -1,0 +1,5 @@
+pandas>=2.0
+matplotlib>=3.7
+requests>=2.31
+python-docx>=0.8
+docx2pdf>=0.1.8

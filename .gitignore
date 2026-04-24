@@ -1,0 +1,51 @@
+# Build outputs
+*.pdf
+*.docx
+node_modules/
+__pycache__/
+*.pyc
+
+# Raw downloaded datasets — re-fetched from source, not stored in git
+figure_data/aqueduct40.zip
+figure_data/aqueduct40/
+figure_data/tedesco_2017/
+figure_data/tedesco_raw.csv
+figure_data/Aqueduct40_baseline_annual_y2023m07d05.gpkg
+figure_data/ilter_sites_raw.json
+figure_data/neon_aquatic_raw.json
+figure_data/gbif_country_effort_raw.json
+figure_data/*.gpkg
+figure_data/*.gdb/
+
+# Large intermediate JSON dumps
+figure_data/openalex_cache/
+figure_data/openalex_raw_*.json
+
+# Raw source dumps (re-fetch from upstream)
+figure_data/tedesco_2017.zip
+figure_data/neon_sites_raw.json
+figure_data/deims_all_sites.json
+figure_data/deims_ilter_sites_raw.json
+figure_data/fig2_v40.png
+figure_data/fig2_v40.svg
+figure_data/fig2a_draft.png
+figure_data/fig2b_draft.png
+figure_data/fig4_draft.png
+
+# MS Word lock files
+~$*
+
+# OneDrive conflict files
+* - Conflict *.md
+
+# Session / state
+_new_round/
+nature_water_submission/
+
+# Submitted PDFs / DOCXs
+*_linenumbered.docx
+*_linenumbered.pdf
+
+# Python caches
+*.egg-info/
+.pytest_cache/

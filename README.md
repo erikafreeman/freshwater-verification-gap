@@ -10,15 +10,15 @@ with a Zenodo DOI; the GitHub repository will remain as the working copy.
 
 ## What you can reproduce
 
-- **Figure 2 (main text):** 3-panel composite — global monitoring sites over
-  fish-richness basins (A); timescale bars (B); scissors plot of freshwater
-  ML vs monitoring publications (C).
+- **Figure 2 (main text) Panel B + C:** timescale bars (B); scissors plot of
+  freshwater ML vs monitoring publications (C). Panel A (map) is prepared
+  separately; the Tedesco + NEON + ILTER CSVs that feed it are included here.
 - **Supplementary Figure S1:** 32 freshwater monitoring networks plotted in
   frequency × coverage space.
 - **Supplementary Figure S2:** annual (non-cumulative) version of Panel C,
   as a robustness check for the cumulative-on-log-axis presentation.
 - **Headline statistics** used in the abstract, main text, and figure
-  captions.
+  captions (reproducible from the same CSVs).
 
 ## Data provenance
 
@@ -67,6 +67,12 @@ A `Makefile` orchestrates the above.
   and flag the proxy nature throughout.
 - Figure 2A plots 2,898 basins after filtering Tedesco *et al.*'s 3,119-basin
   archive to those with outlet coordinates available.
+
+## Scope
+
+This repository is limited to the figure reproduction pipeline. Submission-side
+tooling (markdown → DOCX conversion, reviewer-response helpers) lives elsewhere
+and is not part of the reproducible science.
 
 ## Contact
 

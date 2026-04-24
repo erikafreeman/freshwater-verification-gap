@@ -63,3 +63,4 @@ append_inventory_to_supp.py
 apply_supplement_revisions.py
 _wc.py
 parse_comments.js
+md_to_docx.js

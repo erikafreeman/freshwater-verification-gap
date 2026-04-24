@@ -49,3 +49,17 @@ nature_water_submission/
 # Python caches
 *.egg-info/
 .pytest_cache/
+
+# Internal editing scripts (not part of figure reproducibility)
+apply_reviewer_*.py
+build_dbpr_versions.py
+build_letter_*.py
+strip_emdashes.py
+fix_uncited_refs.py
+fix_neon_count.py
+drop_url_column.py
+inline_figure_captions.py
+append_inventory_to_supp.py
+apply_supplement_revisions.py
+_wc.py
+parse_comments.js

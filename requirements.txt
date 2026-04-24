@@ -1,5 +1,7 @@
-pandas>=2.0
-matplotlib>=3.7
-requests>=2.31
-python-docx>=0.8
-docx2pdf>=0.1.8
+# Pinned for Binder reproducibility. Snapshot April 2026.
+# If any pin becomes uninstallable in the future, loosen to the nearest
+# compatible minor version and re-test.
+pandas==3.0.1
+matplotlib==3.10.8
+numpy==2.4.2
+requests==2.32.3

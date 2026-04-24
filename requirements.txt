@@ -1,7 +1,8 @@
-# Pinned for Binder reproducibility. Snapshot April 2026.
-# If any pin becomes uninstallable in the future, loosen to the nearest
-# compatible minor version and re-test.
-pandas==3.0.1
-matplotlib==3.10.8
-numpy==2.4.2
-requests==2.32.3
+# Minimum versions needed by reproduce_figures.ipynb.
+# We pin lower bounds rather than exact versions so Binder and Colab can
+# resolve binary wheels on their own platforms. The notebook uses only
+# standard pandas/matplotlib/numpy idioms that have been stable for years.
+pandas>=2.0,<4
+matplotlib>=3.7,<4
+numpy>=1.24,<3
+requests>=2.28

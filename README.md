@@ -1,7 +1,11 @@
-# Closing the freshwater verification gap — code and data
+# Closing the freshwater verification gap: code and data
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erikafreeman/freshwater-verification-gap/HEAD?labpath=reproduce_figures.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erikafreeman/freshwater-verification-gap/blob/main/reproduce_figures.ipynb)
+
+> *Reviewers viewing an anonymised mirror: the launch badges above point to the
+> public repository and will not render. All figure outputs are pre-rendered
+> inline in `reproduce_figures.ipynb`, scroll down to see them.*
 
 This repository contains the reproducible scripts and extracted data tables
 underlying the Perspective *"Closing the freshwater verification gap"*

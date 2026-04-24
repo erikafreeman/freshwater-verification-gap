@@ -13,7 +13,7 @@ HERE = Path(__file__).parent
 MS = HERE.parent / "freshwater_prediction_v39_naturewater.md"
 REPORT = HERE / "crossref_proposals.md"
 
-UA = "FreshwaterVerificationGap/1.0 (mailto:erika.freeman@igb-berlin.de)"
+UA = "FreshwaterVerificationGap/1.0 (reproducibility-repo)"
 
 # Parse a reference line: number, first-author surname, year, title, journal
 REF_RE = re.compile(

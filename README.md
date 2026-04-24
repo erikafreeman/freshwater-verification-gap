@@ -76,4 +76,4 @@ and is not part of the reproducible science.
 
 ## Contact
 
-Erika C. Freeman — erika.freeman@igb-berlin.de
+See the corresponding Perspective for contact details.

@@ -232,7 +232,7 @@ axB.set_xticks([1/24/60, 1/24, 1, 7, 30, 365, 365*10])
 axB.set_xticklabels(["Minutes", "Hours", "Days", "Weeks", "Months", "Years", "Decades"])
 axB.set_xlim(0.0005, 365*15)
 axB.set_xlabel("Characteristic timescale", fontsize=9, labelpad=6)
-axB.set_title("B   Temporal mismatch: freshwater dynamics are sampled too slowly",
+axB.set_title("B   Temporal mismatch: freshwater dynamics are sampled too infrequently",
               fontsize=10.5, pad=10)
 axB.grid(axis="x", linestyle=":", linewidth=0.4, color="#dcdcdc", alpha=0.7)
 axB.set_facecolor("white")
